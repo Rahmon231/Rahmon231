@@ -29,7 +29,6 @@ I'm an Android developer who’s passionate about building scalable, clean, and 
 
 ### 🔧 Tooling & Workflow
 - Android Studio (of course!)
-- Figma for UI prototyping
 - Postman for API testing
 - **CI/CD with GitHub Actions & Gradle Tasks**
 
